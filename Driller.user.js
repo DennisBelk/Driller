@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Driller
-// @description  Clicker for Tanki Online
+// @description  Clicker & Gamma for Tanki Online
 // @author       Drilloholic
 // @match        https://*.tankionline.com/*
 // @icon         https://huggingface.co/DionnisB/Photos/resolve/main/1.png
