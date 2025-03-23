@@ -13,9 +13,9 @@ const standartConfig = {
         posX: "1rem"
     },
     binds: {
-        menu: "F1",
-        mines: "F2",
-        supplies: "F3"
+        menu: "Backspace",
+        mines: "F1",
+        supplies: "F2"
     }
 };
 
