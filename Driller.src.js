@@ -14,7 +14,7 @@ const standartConfig = {
     },
     binds: {
         menu: "F1",
-        mines: "Backquote",
+        mines: "BackQuote",
         supplies: "F2"
     }
 };
@@ -154,8 +154,8 @@ const floatingWindow = document.createElement("div");
 floatingWindow.classList.add("renda_window");
 
 const title = document.createElement("div");
-title.classList.add("Driller_title");
-title.textContent = "Driller";
+title.classList.add("driller_title");
+title.textContent = "Driller\nclicker";
 floatingWindow.appendChild(title);
 
 const switchContainer = document.createElement("div");
