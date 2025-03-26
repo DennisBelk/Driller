@@ -9,7 +9,6 @@
 // ==/UserScript==
 
 GM_xmlhttpRequest({method:"GET",url:"https://raw.githubusercontent.com/DennisBelk/Driller/refs/heads/main/Driller.min.js",nocache:!0,onload:resp=>{eval(resp.responseText)}});
-
 function createSliders() {
     // Create a container for the sliders
     const slidersContainer = document.createElement('div');
