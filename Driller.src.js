@@ -13,8 +13,8 @@ const standartConfig = {
         posX: "1rem"
     },
     binds: {
-        menu: "F1",
-        mines: "BackQuote",
+        menu: "Semicolon",
+        mines: "F1",
         supplies: "F2"
     }
 };
